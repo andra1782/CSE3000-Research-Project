@@ -1,3 +1,6 @@
+## Poster and paper
+Accessible through TU Delft's repository. [Poster](https://cse3000-research-project.github.io/static/4ffa082bc95cd3179672eb958e640682/poster.pdf), [paper](https://repository.tudelft.nl/record/uuid:d25aa97c-af96-4219-863f-ce874ab85d8e).
+
 ## Code Reproducibility
 The experiment consisted of 2 phases: data collection and data analysis. 
 
